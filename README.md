@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning QA tools (like a Postman....)
+- 🌱 I’m currently learning QA tools (like a Cypres....)
 - 📫 How to reach me krpaulo05@gmail.com
 
 <!---
